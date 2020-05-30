@@ -1,5 +1,4 @@
 import libtcodpy as libtcod
-
 from entity import Entity
 from input_handlers import handle_keys
 from map_objects.game_map import GameMap
